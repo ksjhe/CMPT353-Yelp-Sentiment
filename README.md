@@ -4,7 +4,7 @@
 ## Sentiment analysis using Recurrent Neural Network on Yelp restaurant reviews.
 
 ## The project
-We are doing a data analysis and machine learning for restaurants in Edmonton, AB.
+We are doing a data analysis and machine learning project for restaurants in Edmonton, AB.
 The dataset for training of the RNN comes from Yelp reviews, we cleaned, organized the data and fed it through a neural network.
 The machine then labels each review to give us an understanding of how restaurants in the data are perceived in certain regions of Edmonton.
 
