@@ -18,4 +18,4 @@ The file is then converted to a parquet file for easier storage and manipulation
 0. [Data Refactoring](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/0.Data%20Refactor.ipynb)
 1. [Data Exploration](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/1.Explore.ipynb)
 2. [Data Cleaning](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/2.Clean.ipynb)
-3. [Exploratory Data Analysis] (https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/963e822e135283dc6aded27bbf187cf28f1fa809/4a.%20Sentiment%20Modeling%20(Feature%20Engineering).ipynb)
+3. [Exploratory Data Analysis](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/3.%20Exploratory%20Data%20Analysis.ipynb)
