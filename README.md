@@ -16,13 +16,14 @@ The file is then converted to a parquet file for easier storage and manipulation
 
 ## Libraries Used:
 Please install the following libraries:
-Pytorch
-tqdm
-seaborn
-pandas
-numpy
-matplotlib
-tensorflow
+Pytorch,
+tqdm,
+seaborn,
+pandas,
+numpy,
+matplotlib,
+tensorflow,
+nltk
 
 ## Table of Contents
 0. [Data Refactoring](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/0.Data%20Refactor.ipynb)
