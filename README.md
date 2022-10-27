@@ -8,6 +8,9 @@ We are doing a data analysis and machine learning project for restaurants in Edm
 The dataset for training of the RNN comes from Yelp reviews, we cleaned, organized the data and fed it through a neural network.
 The machine then labels each review within the data to give users an understanding of the sentiment response of previous visitors.
 
+## Interactive Map of Positive Scores
+
+[map of edmonton with positively rated restaurants](https://datastudio.google.com/s/n03SC_UCAq8)
 
 ## Languages used:
 Python is used including machine learning libraries and data science tools such as Pandas and numpy.
