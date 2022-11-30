@@ -34,4 +34,4 @@ nltk
 2. [Data Cleaning](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/2.Clean.ipynb)
 3. [Exploratory Data Analysis](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/3.%20Exploratory%20Data%20Analysis.ipynb)
 4. a) [Sentiment Modeling (Feature Engineering)](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/4a.%20Sentiment%20Modeling%20(Feature%20Engineering).ipynb)	<br> b)[ Sentiment Modeling (Researched Models)]( https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/4b.%20Sentiment%20Modeling%20(Researched%20Models).ipynb)
-5. TBA
+5. Results
