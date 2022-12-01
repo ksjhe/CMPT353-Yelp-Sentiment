@@ -11,10 +11,10 @@ The machine then labels each review within the data to give users an understandi
 ## Interactive Map of Positive Scores
 We grouped by the dataset and visualized the data using looker studio
 
-The first one is more a sanity check, we groupedby the data and averaged using the scores given by users for a restaurant:
+The first one is more a sanity check, we groupedby the data and averaged using the scores given by users for a restaurant:\
 [map of edmonton with average score given by users](https://datastudio.google.com/s/q-1s3WAWPrs)
 
-These are scores from our models, we also groupedby the data and average the positive sentiment score per restaurant:
+These are scores from our models, we also groupedby the data and average the positive sentiment score per restaurant:\
 [map of edmonton with positively rated restaurants using RoBERTA](https://datastudio.google.com/s/qQ1zFA7x7r4)\
 [map of edmonton with positively rated restaurants using VADER](https://datastudio.google.com/s/gTHQGWbg2Pg)
 
