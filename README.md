@@ -23,7 +23,9 @@ The cleaned/trained dataset are [here](https://github.com/ksjhe/CMPT353-Yelp-Sen
 The roberta model includes 70% of the data, which scores are added per review.
 
 The Edmonton only dataset without any cleaning/training can be found [here](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/tree/main/data).\
-Note: You can use Pandas or Spark to view dataframe. See on how to install Pandas or Spark on your local computer/cluster.
+Note: You can use Pandas or Spark to view dataframe. See on how to install Pandas or Spark on your local computer/cluster.\
+link to install pandas API [here](https://www.pythoncentral.io/how-to-install-pandas-in-python/)\
+link to install spark [here](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421)\
 
 ## Languages used:
 Python is used including machine learning libraries and data science tools such as Pandas and numpy.
