@@ -1,7 +1,5 @@
-# CMPT353-Yelp-Sentiment
-
-
 ## Sentiment analysis using Recurrent Neural Network on Yelp restaurant reviews.
+CMPT 353 - for Dr. Greg Baker, School of Computing Science, Simon Fraser University.
 
 ## The project
 We are doing a data analysis and machine learning project for restaurants in Edmonton, AB.
@@ -60,14 +58,26 @@ install using pip:
 
 ## Graphs 
 
-Word Density Analysis
+### Word Density Analysis
 The data was ran on the nltk library and stopwords were removed, we wanted what words were important in the actual reviews.
 
 <p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg" width="480"></p>
 
-N-Gram Analysis
-An N-gram checks contiguous series of words in the reviews and groups the most frequent series of words given by Customers. We wanted to see some of the more important factors on top of food quality. 
+### N-Gram Analysis
+An N-gram checks contiguous series of words in the reviews and groups them. We wanted to see some of the more important factors on top of food quality in our dataset. 
 
 <p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/Ngram_Analysis.svg" width="480"></p>
 
 Location and service seems to be a detrimental part of most of the reviews in the dataset.
+
+
+### Classification Graphs
+We wanted to see how our data correlates with the scores given by our two pretrained models: RoBERTa and VADER.
+
+### VADER MODEL
+
+<p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/vader_test.svg" width="750"></p>
+
+### RoBERTa MODEL
+
+<p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/roberta.svg" width="750"></p>
