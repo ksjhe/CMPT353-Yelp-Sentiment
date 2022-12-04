@@ -8,6 +8,9 @@ We are doing a data analysis and machine learning project for restaurants in Edm
 The dataset for training of the RNN comes from Yelp reviews, we cleaned, organized the data and fed it through a neural network.
 The machine then labels each review within the data to give users an understanding of the sentiment response of previous visitors.
 
+## Project Report
+The project report link is here. 
+
 ## Interactive Map of Positive Scores
 We grouped by the dataset and visualized the data using looker studio
 
@@ -55,4 +58,8 @@ install using pip:
 4. a) [Sentiment Modeling (Feature Engineering)](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/4a.%20Sentiment%20Modeling%20(Feature%20Engineering).ipynb)	<br> b)[ Sentiment Modeling (Researched Models)]( https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/4b.%20Sentiment%20Modeling%20(Researched%20Models).ipynb)
 5. [Results/Analysis](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/5.Analysis.ipynb)
 
+## Graphs 
 
+Word Density Analysis
+The data was ran on the nltk library and stopwords were removed, we wanted what words were important in the actual reviews.
+![Word Density Analysis](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg)
