@@ -62,4 +62,5 @@ install using pip:
 
 Word Density Analysis
 The data was ran on the nltk library and stopwords were removed, we wanted what words were important in the actual reviews.
-![Word Density Analysis](https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg)
+<img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg" width="12">
+
