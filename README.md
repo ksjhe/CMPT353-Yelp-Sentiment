@@ -62,5 +62,12 @@ install using pip:
 
 Word Density Analysis
 The data was ran on the nltk library and stopwords were removed, we wanted what words were important in the actual reviews.
-<img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg" width="12">
 
+<p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/WDA.svg" width="480"></p>
+
+N-Gram Analysis
+An N-gram checks contiguous series of words in the reviews and groups the most frequent series of words given by Customers. We wanted to see some of the more important factors on top of food quality. 
+
+<p align="center"><img src="https://github.com/ksjhe/CMPT353-Yelp-Sentiment/blob/main/visuals/Ngram_Analysis.svg" width="480"></p>
+
+Location and service seems to be a detrimental part of most of the reviews in the dataset.
