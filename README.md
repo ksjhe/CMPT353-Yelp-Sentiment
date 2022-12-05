@@ -45,7 +45,7 @@ matplotlib,
 tensorflow,
 nltk
 
-install using pip:
+install using pip or anaconda3
 
 
 ## Table of Contents
